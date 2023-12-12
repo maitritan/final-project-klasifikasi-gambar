@@ -1,5 +1,5 @@
 # Final Project "Klasifikasi Gambar"
-Klasifikasi Gambar is the final project of a machine learning model in an artificial neural network program using TensorFlow on hand images resembling rocks, scissors and paper which was organized and reviewed by Dicoding Indonesia.
+Klasifikasi Gambar is the final project on a machine learning model I built using TensorFlow, which is capable of identifying images of a person's hand resembling the hand gestures of rock, paper, and scissors. This project was organized and reviewed by Dicoding Indonesia.
 
 ## Project Overview
 * Dataset used: rockpaperscissors and wget command is: https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip.
